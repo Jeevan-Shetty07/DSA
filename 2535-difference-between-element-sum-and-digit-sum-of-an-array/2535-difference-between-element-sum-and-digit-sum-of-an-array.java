@@ -6,8 +6,8 @@ class Solution {
             sum+=nums[i];
             int temp=nums[i];
             while(temp>0){
-                int d=temp%10;
-                dig+=d;
+                // int d=temp%10;
+                dig=dig+(temp%10);
                 temp=temp/10;
             }
         }
