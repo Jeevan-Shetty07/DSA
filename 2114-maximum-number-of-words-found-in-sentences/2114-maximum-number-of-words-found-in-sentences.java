@@ -5,7 +5,7 @@ class Solution {
         for(int i=0;i<sentences.length;i++){
             String curr=sentences[i];
              loc=1;
-            for(int j=0;j<curr.length();j++){
+            for(int j=1;j<curr.length()-1;j++){
             
                 if(curr.charAt(j)==' '){
                    loc++;
