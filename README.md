@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/Jeevan-Shetty07/DSA/tree/master/0709-to-lower-case) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Jeevan-Shetty07/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Array
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/Jeevan-Shetty07/DSA/tree/master/2974-minimum-number-game) |
+## Hash Table
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Jeevan-Shetty07/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
