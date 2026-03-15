@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Jeevan-Shetty07/DSA/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Jeevan-Shetty07/DSA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Jeevan-Shetty07/DSA/tree/master/0682-baseball-game) |
 | [2974-minimum-number-game](https://github.com/Jeevan-Shetty07/DSA/tree/master/2974-minimum-number-game) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Jeevan-Shetty07/DSA/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Jeevan-Shetty07/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Jeevan-Shetty07/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Jeevan-Shetty07/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Jeevan-Shetty07/DSA/tree/master/0682-baseball-game) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Jeevan-Shetty07/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
