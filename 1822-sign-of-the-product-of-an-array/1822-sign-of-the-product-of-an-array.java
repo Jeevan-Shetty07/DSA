@@ -9,20 +9,16 @@ class Solution {
         }
     }
     public int arraySign(int[] nums) {
-      int neg=0;
+      int neg=1;
         for(int i=0;i<nums.length;i++){
             if(nums[i]==0){
                 return signFunc(0);
             }else if(nums[i]<0){
-                neg++;
+               neg=-neg;
             }
             
         }
+         return signFunc(neg);
         
-        if(neg%2==1){
-            return signFunc(-1);
-        }else{
-            return signFunc(1);
-        }
     }
 }
