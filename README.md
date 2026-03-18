@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Jeevan-Shetty07/DSA/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Jeevan-Shetty07/DSA/tree/master/0709-to-lower-case) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Jeevan-Shetty07/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Jeevan-Shetty07/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Jeevan-Shetty07/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Jeevan-Shetty07/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Array
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/Jeevan-Shetty07/DSA/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/Jeevan-Shetty07/DSA/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Jeevan-Shetty07/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Jeevan-Shetty07/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Jeevan-Shetty07/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Jeevan-Shetty07/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Jeevan-Shetty07/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Jeevan-Shetty07/DSA/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Jeevan-Shetty07/DSA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Jeevan-Shetty07/DSA/tree/master/0682-baseball-game) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Jeevan-Shetty07/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2974-minimum-number-game](https://github.com/Jeevan-Shetty07/DSA/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
