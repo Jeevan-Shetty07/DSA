@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Jeevan-Shetty07/DSA/tree/master/0001-two-sum) |
 | [0682-baseball-game](https://github.com/Jeevan-Shetty07/DSA/tree/master/0682-baseball-game) |
 | [1550-three-consecutive-odds](https://github.com/Jeevan-Shetty07/DSA/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/Jeevan-Shetty07/DSA/tree/master/1672-richest-customer-wealth) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Jeevan-Shetty07/DSA/tree/master/0001-two-sum) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Jeevan-Shetty07/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
