@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Jeevan-Shetty07/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Jeevan-Shetty07/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Matrix
 |  |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Jeevan-Shetty07/DSA/tree/master/0258-add-digits) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Jeevan-Shetty07/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
