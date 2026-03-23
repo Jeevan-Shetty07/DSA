@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Jeevan-Shetty07/DSA/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/Jeevan-Shetty07/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Jeevan-Shetty07/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0219-contains-duplicate-ii](https://github.com/Jeevan-Shetty07/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0682-baseball-game](https://github.com/Jeevan-Shetty07/DSA/tree/master/0682-baseball-game) |
 | [1550-three-consecutive-odds](https://github.com/Jeevan-Shetty07/DSA/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/Jeevan-Shetty07/DSA/tree/master/1672-richest-customer-wealth) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jeevan-Shetty07/DSA/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Jeevan-Shetty07/DSA/tree/master/0219-contains-duplicate-ii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Jeevan-Shetty07/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Jeevan-Shetty07/DSA/tree/master/0024-swap-nodes-in-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Jeevan-Shetty07/DSA/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
