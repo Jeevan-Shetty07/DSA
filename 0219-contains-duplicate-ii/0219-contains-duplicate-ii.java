@@ -4,12 +4,10 @@ class Solution {
           Hashtable<Integer ,Integer > dup=new Hashtable<>();
           int count=0;
           for(int num:nums){
-            if(dup.containsKey(num)){
-                if(count-dup.get(num)<=k){
+            if(dup.containsKey(num) && count-dup.get(num)<=k){
+                
                     return true;
-                }else{
-                    dup.put(num,count);
-                }
+               
             }else{
                 dup.put(num,count);
             }
