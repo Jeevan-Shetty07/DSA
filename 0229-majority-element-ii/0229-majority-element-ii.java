@@ -1,4 +1,4 @@
-import java.util.*;
+// import java.util.*;
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
         
@@ -13,7 +13,7 @@ class Solution {
             }
             return res;
         }
-        Hashtable<Integer ,Integer> freq=new Hashtable<>();
+        HashMap<Integer ,Integer> freq=new HashMap<>();
         for(int i=0;i<nums.length;i++){
             if(freq.containsKey(nums[i])){
                 freq.put(nums[i],freq.get(nums[i])+1);
