@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jeevan-Shetty07/DSA/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/Jeevan-Shetty07/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Jeevan-Shetty07/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Jeevan-Shetty07/DSA/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Jeevan-Shetty07/DSA/tree/master/0709-to-lower-case) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jeevan-Shetty07/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Jeevan-Shetty07/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Jeevan-Shetty07/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Matrix
 |  |
