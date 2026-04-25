@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Jeevan-Shetty07/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Jeevan-Shetty07/DSA/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Jeevan-Shetty07/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Jeevan-Shetty07/DSA/tree/master/0258-add-digits) |
@@ -101,12 +102,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Jeevan-Shetty07/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jeevan-Shetty07/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Jeevan-Shetty07/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Jeevan-Shetty07/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Jeevan-Shetty07/DSA/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Jeevan-Shetty07/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/Jeevan-Shetty07/DSA/tree/master/0231-power-of-two) |
 ## Sliding Window
