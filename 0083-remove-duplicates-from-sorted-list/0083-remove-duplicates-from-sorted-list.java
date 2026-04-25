@@ -15,14 +15,14 @@ class Solution {
         }else if(head.next==null){
             return head;
         }
-        ListNode trav1=head,trav2=head.next;
-        while(trav2!=null){
-            if(trav1.val==trav2.val){
-                trav1.next=trav2.next;
-                trav2=trav1.next;
+        ListNode trav1=head;
+        while(trav1.next!=null){
+            if(trav1.val==trav1.next.val){
+                trav1.next=trav1.next.next;
+                // trav2=trav1.next;
             }else{
                  trav1=trav1.next;
-                 trav2=trav2.next;
+                //  trav2=trav2.next;
             }
         }
         return head;
