@@ -17,7 +17,7 @@ class Solution {
                 unique.add(pattern.charAt(num++));
                 }
             }else{
-              if( num == pattern.length() || pattern.charAt(num)!=map.get(word)){
+              if( pattern.charAt(num)!=map.get(word)){
                     return false;
                 }else{
                     num++;
