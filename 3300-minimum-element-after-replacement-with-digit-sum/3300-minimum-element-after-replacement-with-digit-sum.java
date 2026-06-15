@@ -8,9 +8,7 @@ class Solution {
                     i=i/10;
                }
                nums[pos]=sum;
-               if(sum<min){
-                  min=sum;
-               }
+               min=Math.min(min,sum);
 
         }
         return min;
