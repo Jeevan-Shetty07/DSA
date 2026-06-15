@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Jeevan-Shetty07/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Jeevan-Shetty07/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Jeevan-Shetty07/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3516-find-closest-person](https://github.com/Jeevan-Shetty07/DSA/tree/main/3516-find-closest-person/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
