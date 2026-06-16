@@ -13,8 +13,9 @@ class Solution {
             return res[0];
         }
         Arrays.sort(res);
-         float mid=0,num1,num2;
+         float mid=0,num1;
          if(res.length%2==0){
+            float num2;
                num1=res[res.length/2];
                num2=res[(res.length/2)-1];
             mid=(num1+num2)/2;
