@@ -19,7 +19,7 @@ class Solution {
             float num2;
                num1=res[length/2];
                num2=res[(length/2)-1];
-            mid=(num1+num2)/2;
+               mid=(num1+num2)/2;
            
          }else if(length%2==1){
                 mid=res[length/2];
