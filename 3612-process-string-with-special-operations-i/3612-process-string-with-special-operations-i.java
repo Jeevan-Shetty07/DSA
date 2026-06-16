@@ -5,7 +5,7 @@ class Solution {
             if(c>='a' && c<='z'){
                 sb.append(c);
             }
-            if(sb.length()-1!=-1){
+            if(sb.length()>0){
              if(c=='*'){
                 sb.deleteCharAt(sb.length()-1);
             }else if(c=='#'){
