@@ -7,12 +7,9 @@ class Solution {
         for(int i=0;i<mlen;i++){
             deg=0;
             for(int j=0;j<mlen;j++){
-                if(matrix[j][i]==0){
-                     continue;
-                }
-                deg++;
+                 res[j]+=matrix[j][i];
             }
-            res[resc++]=deg;
+           
         }
         return res;
     }
