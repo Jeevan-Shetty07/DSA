@@ -6,9 +6,10 @@ class Solution {
         for(int i=0;i<matrix.length;i++){
             deg=0;
             for(int j=0;j<matrix.length;j++){
-                if(matrix[j][i]==1){
-                      deg++;
+                if(matrix[j][i]==0){
+                     continue;
                 }
+                deg++;
             }
             res[resc++]=deg;
         }
