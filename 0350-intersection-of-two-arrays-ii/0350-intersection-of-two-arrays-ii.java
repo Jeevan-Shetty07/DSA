@@ -7,9 +7,9 @@ class Solution {
                hm.put(i,hm.getOrDefault(i,0)+1);
         }
         for(int i:nums2){
-               if(!hm.containsKey(i) || hm.get(i)<=0){
-                continue;
-               }else{
+               if(hm.containsKey(i) && hm.get(i)>0){
+           
+            
                     al.add(i);
                     hm.put(i,hm.get(i)-1);
                }
