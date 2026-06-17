@@ -4,11 +4,7 @@ class Solution {
         ArrayList<Integer> al=new ArrayList<>();
      
         for(int i:nums1){
-                if(hm.containsKey(i)){
-                    hm.put(i,hm.get(i)+1);
-                }else{
-                    hm.put(i,1);
-                }
+               hm.put(i,hm.getOrDefault(i,0)+1);
         }
         for(int i:nums2){
                if(!hm.containsKey(i) || hm.get(i)<=0){
