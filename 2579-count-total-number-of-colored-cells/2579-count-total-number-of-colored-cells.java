@@ -6,7 +6,7 @@ class Solution {
             }
             return n=1;
         }
-         long sum=(4*((long)n-1)*((long)n))/2;
-        return sum+1;
+        ;
+        return  ((4*((long)n-1)*((long)n))/2)+1;
     }
 }
