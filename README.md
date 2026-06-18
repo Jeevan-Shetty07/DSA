@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Jeevan-Shetty07/DSA/tree/master/0258-add-digits) |
 | [0382-linked-list-random-node](https://github.com/Jeevan-Shetty07/DSA/tree/main/0382-linked-list-random-node/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Jeevan-Shetty07/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Jeevan-Shetty07/DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Jeevan-Shetty07/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Jeevan-Shetty07/DSA/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Jeevan-Shetty07/DSA/tree/main/2413-smallest-even-multiple/) | Easy |
