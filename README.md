@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jeevan-Shetty07/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Jeevan-Shetty07/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Jeevan-Shetty07/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/Jeevan-Shetty07/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0382-linked-list-random-node](https://github.com/Jeevan-Shetty07/DSA/tree/main/0382-linked-list-random-node/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Jeevan-Shetty07/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Jeevan-Shetty07/DSA/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Jeevan-Shetty07/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/Jeevan-Shetty07/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/Jeevan-Shetty07/DSA/tree/master/0231-power-of-two) |
 ## Sliding Window
 | Problem Name | Difficulty |
