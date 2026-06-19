@@ -6,10 +6,11 @@ class Solution {
             if (sum == target) {
                 return res;
             } else if (sum > target) {
-                sum = numbers[left] + numbers[--right];
+               right--;
             }else{
-                sum=numbers[++left]+numbers[right];
+                left++;
             }
+            sum=numbers[left]+numbers[right];
             res[0]=left+1;
             res[1]=right+1;
         }
