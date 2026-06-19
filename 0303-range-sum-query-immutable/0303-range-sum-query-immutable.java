@@ -14,7 +14,6 @@ class NumArray {
             }else{
                 return pref[right]-pref[left-1];
             }
-            // return  0;
     }
 }
 
