@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Jeevan-Shetty07/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jeevan-Shetty07/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Jeevan-Shetty07/DSA/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/Jeevan-Shetty07/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Jeevan-Shetty07/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Jeevan-Shetty07/DSA/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Jeevan-Shetty07/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Jeevan-Shetty07/DSA/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/Jeevan-Shetty07/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Jeevan-Shetty07/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Jeevan-Shetty07/DSA/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jeevan-Shetty07/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Jeevan-Shetty07/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Jeevan-Shetty07/DSA/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/Jeevan-Shetty07/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Jeevan-Shetty07/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Jeevan-Shetty07/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Jeevan-Shetty07/DSA/tree/master/0242-valid-anagram) |
