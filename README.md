@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Jeevan-Shetty07/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jeevan-Shetty07/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0682-baseball-game](https://github.com/Jeevan-Shetty07/DSA/tree/master/0682-baseball-game) |
+| [1480-running-sum-of-1d-array](https://github.com/Jeevan-Shetty07/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/Jeevan-Shetty07/DSA/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/Jeevan-Shetty07/DSA/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Jeevan-Shetty07/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -193,4 +194,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Jeevan-Shetty07/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/Jeevan-Shetty07/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
