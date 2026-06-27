@@ -4,10 +4,11 @@ class Solution {
         StringBuilder sub = new StringBuilder(strs[0]);
        
          for(int i=1;i<strs.length;i++){
-            if(sub.length()==0  || strs[i].length()==0){
+            String word=strs[i];
+            if(sub.length()==0  || word.length()==0){
                 return "";
             }
-            if(strs[i].length()<sub.length() || !strs[i].startsWith(sub.toString())){
+            if(strs[i].length()<sub.length() || !word.startsWith(sub.toString())){
                    i=0;
                    sub.deleteCharAt(sub.length()-1);
             }   
