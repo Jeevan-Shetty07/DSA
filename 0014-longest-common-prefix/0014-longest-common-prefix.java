@@ -7,9 +7,9 @@ class Solution {
             String word=strs[i];
             int slength=sub.length(),wlength=word.length();
 
-            // if(sub.length()==0  || word.length()==0){
-            //     return "";
-            // }
+            if(sub.length()==0  || word.length()==0){
+                return "";
+            }
             if(wlength<slength || !word.startsWith(sub.toString())){
                    i=0;
                    sub.deleteCharAt(slength-1);
