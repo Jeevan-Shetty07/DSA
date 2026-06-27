@@ -5,12 +5,14 @@ class Solution {
        
          for(int i=1;i<strs.length;i++){
             String word=strs[i];
+            int slength=sub.length(),wlength=word.length();
+
             if(sub.length()==0  || word.length()==0){
                 return "";
             }
-            if(strs[i].length()<sub.length() || !word.startsWith(sub.toString())){
+            if(wlength<slength || !word.startsWith(sub.toString())){
                    i=0;
-                   sub.deleteCharAt(sub.length()-1);
+                   sub.deleteCharAt(slength-1);
             }   
          }
         return  sub.toString();
