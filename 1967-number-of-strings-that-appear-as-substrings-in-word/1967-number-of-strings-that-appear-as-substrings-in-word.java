@@ -3,10 +3,10 @@ class Solution {
         
         int count=0;
         for(String w:patterns){
-              System.out.println(w.indexOf(word));
+            //   System.out.println(w.indexOf(word));
             if(word.indexOf(w)>=0){
-                // System.out.println(w.indexOf(word));
-                count++;
+        
+             count++;
             }
         }
         return count;
