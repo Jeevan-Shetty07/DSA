@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Jeevan-Shetty07/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Jeevan-Shetty07/DSA/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Jeevan-Shetty07/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0231-power-of-two](https://github.com/Jeevan-Shetty07/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Jeevan-Shetty07/DSA/tree/master/0258-add-digits) |
 | [0382-linked-list-random-node](https://github.com/Jeevan-Shetty07/DSA/tree/main/0382-linked-list-random-node/) | Medium |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jeevan-Shetty07/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0069-sqrtx](https://github.com/Jeevan-Shetty07/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jeevan-Shetty07/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jeevan-Shetty07/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Jeevan-Shetty07/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
