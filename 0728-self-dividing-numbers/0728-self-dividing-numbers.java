@@ -10,7 +10,7 @@ class Solution {
                   break;
                 }
                 int digit=(int)dig-'0';
-                System.out.println(digit);
+                // System.out.println(digit);
                  if (i % digit != 0) {
                      div = false;
                  }
