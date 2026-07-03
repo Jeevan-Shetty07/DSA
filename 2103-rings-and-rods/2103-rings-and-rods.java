@@ -15,7 +15,7 @@ class Solution {
 
                 }
             }
-            System.out.println(r+" "+g+" "+b);
+            // System.out.println(r+" "+g+" "+b);
             if(r && g && b){
                 count++;
             }
