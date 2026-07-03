@@ -11,7 +11,7 @@ class Solution {
                         b = true;
                     else if (col == 'G')
                         g = true;
-                    else if (col== 'R')
+                    else
                         r = true;
 
                 }
