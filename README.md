@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Jeevan-Shetty07/DSA/tree/master/0258-add-digits) |
 | [0382-linked-list-random-node](https://github.com/Jeevan-Shetty07/DSA/tree/main/0382-linked-list-random-node/) | Medium |
 | [0507-perfect-number](https://github.com/Jeevan-Shetty07/DSA/tree/main/0507-perfect-number/) | Easy |
+| [0728-self-dividing-numbers](https://github.com/Jeevan-Shetty07/DSA/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Jeevan-Shetty07/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Jeevan-Shetty07/DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Jeevan-Shetty07/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
