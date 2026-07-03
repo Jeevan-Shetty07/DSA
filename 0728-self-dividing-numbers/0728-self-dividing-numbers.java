@@ -11,6 +11,7 @@ class Solution {
                     int digit = (int) dig - '0';
                     if (i % digit != 0) {
                         div = false;
+                        break;
                     }
                 }
                 if (div)
