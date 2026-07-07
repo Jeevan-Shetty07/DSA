@@ -1,23 +1,21 @@
 class Solution {
     public long sumAndMultiply(int n) {
-        String s= String.valueOf(n);
-        if(n==0){
-            return 0;
-        }
-
-        StringBuilder res=new StringBuilder();
-        long sum=0;
-
-        for(char c:s.toCharArray()){
-            if(c=='0'){
+        long sum = 0, ind = 0, place = 1;
+        while (n > 0) {
+            
+            int dig = n % 10;
+            if(dig==0){
+                n/=10;
                 continue;
             }
-            sum=sum+(int)(c-'0');
-            res.append(c);
-
+            ind = (dig * place) + ind;
+            place*=10;
+            sum = sum + dig;
+            n /= 10;
         }
-        
-        return Long.parseLong(res.toString())*sum;
+        System.out.println(sum+" "+ind);
+
+        return ind * sum;
     }
 
 }
