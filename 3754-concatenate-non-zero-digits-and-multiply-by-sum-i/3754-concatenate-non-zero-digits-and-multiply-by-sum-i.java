@@ -16,7 +16,7 @@ class Solution {
             res.append(c);
 
         }
-        System.out.println(res+" "+sum);
+        
         return Long.parseLong(res.toString())*sum;
     }
 
