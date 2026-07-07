@@ -13,7 +13,7 @@ class Solution {
             sum = sum + dig;
             n /= 10;
         }
-        System.out.println(sum+" "+ind);
+        // System.out.println(sum+" "+ind);
 
         return ind * sum;
     }
