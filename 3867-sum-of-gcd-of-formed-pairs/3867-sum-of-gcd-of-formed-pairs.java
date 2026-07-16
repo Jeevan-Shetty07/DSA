@@ -15,7 +15,7 @@ class Solution {
         long sum=0;
          while(count<lcount){
             sum+=gcd(prefixGcd[count++],prefixGcd[lcount--]);
-            System.out.println(sum);
+            // System.out.println(sum);
          }
         return sum;
     }
