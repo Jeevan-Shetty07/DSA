@@ -7,7 +7,7 @@ class Solution {
         int count=0,lcount=nums.length-1;
         long max = 0;
         for (long num : nums) {
-            max = max < num ? num : max;
+            max = Math.max(max,num);
             prefixGcd[count++]=gcd(num,max);
         }
         count=0;
