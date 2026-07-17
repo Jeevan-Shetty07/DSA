@@ -4,7 +4,7 @@ class Solution {
        int  count=0;
         for(int i=0;i<=s.length()-k;i++){
             int n=Integer.parseInt(s.substring(i,i+k));
-            // System.out.println(n);
+            System.out.println(n);
             if(n!=0 && num%n==0){
                 count++;
             }
