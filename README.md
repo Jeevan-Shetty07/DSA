@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-rings-and-rods](https://github.com/Jeevan-Shetty07/DSA/tree/main/2103-rings-and-rods/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Jeevan-Shetty07/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Jeevan-Shetty07/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Jeevan-Shetty07/DSA/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [3110-score-of-a-string](https://github.com/Jeevan-Shetty07/DSA/tree/main/3110-score-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Jeevan-Shetty07/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Jeevan-Shetty07/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Jeevan-Shetty07/DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Jeevan-Shetty07/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Jeevan-Shetty07/DSA/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Jeevan-Shetty07/DSA/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Jeevan-Shetty07/DSA/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Jeevan-Shetty07/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Jeevan-Shetty07/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Jeevan-Shetty07/DSA/tree/master/0219-contains-duplicate-ii) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Jeevan-Shetty07/DSA/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
