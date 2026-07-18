@@ -3,9 +3,15 @@ class Solution {
         return b==0?a:gcd(b,a%b);
     }
     public int findGCD(int[] nums) {
-        
-        Arrays.sort(nums);
-        return gcd(nums[0],nums[nums.length-1]);
+        int min=9999,max=0;
+        for(int num:nums){
+             if(num>max){
+                max=num;
+             }if(num<min){
+                min=num;
+             }
+        }
+        return gcd(min,max);
         
     }
 }
