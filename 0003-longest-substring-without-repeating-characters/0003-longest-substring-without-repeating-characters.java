@@ -9,7 +9,7 @@ class Solution {
             start++;
         }
           uq.add(s.charAt(i));
-        max=Math.max(i-start+1,max);
+         max=Math.max(i-start+1,max);
       
       }
       return max;
