@@ -8,18 +8,16 @@ class Solution {
         Map<String,Integer> hm=new HashMap<String,Integer>();
        
         for(int i=9;i<s.length();i++){
+        
             sb.append(s.charAt(i));
-           
-            hm.put(sb.toString(),hm.getOrDefault(sb.toString(),0)+1);
-            //  System.out.println(hm.get(sb.toString())+" "+i);
-            if(hm.get(sb.toString())==2  ){
-                al.add(sb.toString());
+            String temp=sb.toString();
+            hm.put(temp,hm.getOrDefault(temp,0)+1);
+            if(hm.get(temp)==2  ){
+                al.add(temp);
             }
             sb.delete(0,1);
-
-
         }
-  return al;
+     return al;
         
     }
 }
