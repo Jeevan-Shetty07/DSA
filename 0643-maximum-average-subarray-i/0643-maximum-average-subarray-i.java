@@ -7,8 +7,7 @@ class Solution {
         }
         avg=sum/k;
         for(int i=1;i<nums.length-k+1;i++){
-            sum-=nums[i-1];
-            sum+=nums[i+k-1];
+            sum=sum-nums[i-1]+nums[i+k-1];
             avg=Math.max(avg,sum/k);
         }
         return avg;
