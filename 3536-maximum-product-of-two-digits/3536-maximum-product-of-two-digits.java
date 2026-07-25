@@ -9,7 +9,7 @@ class Solution {
             }else if(digit>smax){
               smax=digit;
             }
-            System.out.println(max+" "+smax);
+            // System.out.println(max+" "+smax);
             n=n/10;
         }
         return max*smax;
