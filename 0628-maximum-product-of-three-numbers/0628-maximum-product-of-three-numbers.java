@@ -20,7 +20,7 @@ class Solution {
                 smin=nums[i];
              }
         }
-        System.out.println(min+ " "+smin+" "+max+" "+" "+smax+" "+tmax);
+        // System.out.println(min+ " "+smin+" "+max+" "+" "+smax+" "+tmax);
        return Math.max(min*smin*max ,max*smax*tmax);
     }
 }
