@@ -4,7 +4,8 @@ class Solution {
         Map<Character, Character> hmt = new HashMap<>();
 
         for (int i = 0; i < s.length(); i++) {
-            if ((hms.containsKey(s.charAt(i)) && hms.get(s.charAt(i)) != t.charAt(i))
+            char chs=s.charAt(i), cht=t.charAt(i);
+            if ((hms.containsKey(chs) && hms.get(s.charAt(i)) != t.charAt(i))
                     || (hmt.containsKey(t.charAt(i)) && hmt.get(t.charAt(i)) != s.charAt(i))) {
                 return false;
             } else {
