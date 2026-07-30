@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Jeevan-Shetty07/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Jeevan-Shetty07/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Jeevan-Shetty07/DSA/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jeevan-Shetty07/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3110-score-of-a-string](https://github.com/Jeevan-Shetty07/DSA/tree/main/3110-score-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Jeevan-Shetty07/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Jeevan-Shetty07/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/Jeevan-Shetty07/DSA/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Jeevan-Shetty07/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Jeevan-Shetty07/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jeevan-Shetty07/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Jeevan-Shetty07/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Jeevan-Shetty07/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3516-find-closest-person](https://github.com/Jeevan-Shetty07/DSA/tree/main/3516-find-closest-person/) | Easy |
@@ -305,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Jeevan-Shetty07/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jeevan-Shetty07/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 <!---LeetCode Topics End-->
