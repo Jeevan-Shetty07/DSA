@@ -8,11 +8,11 @@ class Solution {
             if ((hms.containsKey(chs) && hms.get(chs) != cht)
                     || (hmt.containsKey(cht) && hmt.get(cht) !=chs)) {
                 return false;
-            } else {
+            } 
                 hms.put(chs , cht );
                 hmt.put(cht , chs);
 
-            }
+       
         }
         return true;
     }
