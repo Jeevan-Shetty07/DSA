@@ -6,7 +6,7 @@ class Solution {
         for (int i = 0; i < s.length(); i++) {
             char chs=s.charAt(i), cht=t.charAt(i);
             if ((hms.containsKey(chs) && hms.get(chs) != cht)
-                    || (hmt.containsKey(cht) && hmt.get(cht) != s.charAt(i))) {
+                    || (hmt.containsKey(cht) && hmt.get(cht) !=chs)) {
                 return false;
             } else {
                 hms.put(s.charAt(i), t.charAt(i));
