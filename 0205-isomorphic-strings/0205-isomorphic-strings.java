@@ -5,7 +5,7 @@ class Solution {
 
         for (int i = 0; i < s.length(); i++) {
             char chs=s.charAt(i), cht=t.charAt(i);
-            if ((hms.containsKey(chs) && hms.get(s.charAt(i)) != t.charAt(i))
+            if ((hms.containsKey(chs) && hms.get(chs) != cht)
                     || (hmt.containsKey(t.charAt(i)) && hmt.get(t.charAt(i)) != s.charAt(i))) {
                 return false;
             } else {
