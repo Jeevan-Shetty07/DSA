@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Jeevan-Shetty07/DSA/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Jeevan-Shetty07/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Jeevan-Shetty07/DSA/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0205-isomorphic-strings](https://github.com/Jeevan-Shetty07/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Jeevan-Shetty07/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Jeevan-Shetty07/DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Jeevan-Shetty07/DSA/tree/master/0383-ransom-note) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jeevan-Shetty07/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0169-majority-element](https://github.com/Jeevan-Shetty07/DSA/tree/main/0169-majority-element/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/Jeevan-Shetty07/DSA/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0205-isomorphic-strings](https://github.com/Jeevan-Shetty07/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Jeevan-Shetty07/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Jeevan-Shetty07/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Jeevan-Shetty07/DSA/tree/master/0229-majority-element-ii) |
