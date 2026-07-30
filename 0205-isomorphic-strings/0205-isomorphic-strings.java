@@ -9,8 +9,8 @@ class Solution {
                     || (hmt.containsKey(cht) && hmt.get(cht) !=chs)) {
                 return false;
             } else {
-                hms.put(chs , t.charAt(i));
-                hmt.put(t.charAt(i), s.charAt(i));
+                hms.put(chs , cht );
+                hmt.put(cht , chs);
 
             }
         }
