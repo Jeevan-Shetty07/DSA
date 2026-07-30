@@ -3,12 +3,10 @@ class Solution {
         Map<Character, Character> hm = new HashMap<>();
         int i = 0;
         for (char ch : s.toCharArray()) {
-            if (hm.containsKey(ch) && hm.get(ch) != t.charAt(i)) {
+            if ((hm.containsKey(ch) && hm.get(ch) != t.charAt(i))
+                    || (!hm.containsKey(ch) && hm.containsValue(t.charAt(i)))) {
                 return false;
-            } else if (!hm.containsKey(ch) && hm.containsValue(t.charAt(i))) {
-                return false;
-
-            } else {
+            }   else {
                 hm.put(ch, t.charAt(i));
                 i++;
             }
