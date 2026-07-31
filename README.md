@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Jeevan-Shetty07/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Jeevan-Shetty07/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Jeevan-Shetty07/DSA/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/Jeevan-Shetty07/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jeevan-Shetty07/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3110-score-of-a-string](https://github.com/Jeevan-Shetty07/DSA/tree/main/3110-score-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Jeevan-Shetty07/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Jeevan-Shetty07/DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Jeevan-Shetty07/DSA/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Jeevan-Shetty07/DSA/tree/master/0383-ransom-note) |
+| [2833-furthest-point-from-origin](https://github.com/Jeevan-Shetty07/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
