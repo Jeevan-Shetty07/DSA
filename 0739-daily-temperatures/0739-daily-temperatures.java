@@ -8,11 +8,7 @@ class Solution {
             while (!stack.isEmpty() && temperatures[i] >= temperatures[stack.peek()]) {
                 stack.pop();
             }
-            if (stack.isEmpty()) {
-                ans[i] = 0;
-            } else {
-                ans[i] = stack.peek() - i;
-            }
+       ans[i] = stack.isEmpty() ? 0 : stack.peek() - i;
             stack.push(i);
         }
         return ans;
