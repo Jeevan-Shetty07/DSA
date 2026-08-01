@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Jeevan-Shetty07/DSA/tree/main/0705-design-hashset/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Jeevan-Shetty07/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Jeevan-Shetty07/DSA/tree/main/0724-find-pivot-index/) | Easy |
+| [0739-daily-temperatures](https://github.com/Jeevan-Shetty07/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Jeevan-Shetty07/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Jeevan-Shetty07/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jeevan-Shetty07/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Jeevan-Shetty07/DSA/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/Jeevan-Shetty07/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0682-baseball-game](https://github.com/Jeevan-Shetty07/DSA/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Jeevan-Shetty07/DSA/tree/main/0739-daily-temperatures/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -337,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Jeevan-Shetty07/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/Jeevan-Shetty07/DSA/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
