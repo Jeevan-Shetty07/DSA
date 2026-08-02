@@ -15,7 +15,7 @@ class Solution {
         while (head != null) {
             rev.push(head);
             head = head.next;
-           System.out.println(rev.peek().val);
+        //    System.out.println(rev.peek().val);
         }
         head=rev.peek();
         int max=0;
