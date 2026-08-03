@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Jeevan-Shetty07/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Jeevan-Shetty07/DSA/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Jeevan-Shetty07/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/Jeevan-Shetty07/DSA/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/Jeevan-Shetty07/DSA/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Jeevan-Shetty07/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Jeevan-Shetty07/DSA/tree/master/0242-valid-anagram) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Jeevan-Shetty07/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Jeevan-Shetty07/DSA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Jeevan-Shetty07/DSA/tree/main/0069-sqrtx/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/Jeevan-Shetty07/DSA/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0231-power-of-two](https://github.com/Jeevan-Shetty07/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Jeevan-Shetty07/DSA/tree/master/0258-add-digits) |
 | [0382-linked-list-random-node](https://github.com/Jeevan-Shetty07/DSA/tree/main/0382-linked-list-random-node/) | Medium |
