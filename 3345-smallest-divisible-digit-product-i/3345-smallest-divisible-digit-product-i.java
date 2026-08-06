@@ -1,8 +1,6 @@
 class Solution {
     public int smallestNumber(int n, int t) {
-         if(n==100 ){
-            return n;
-         }
+     
          if(n<10 && n%t!=0){
             return n+(t-(n%t))>=10?10:n+(t-(n%t));
          }
