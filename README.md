@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Jeevan-Shetty07/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Jeevan-Shetty07/DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Jeevan-Shetty07/DSA/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Jeevan-Shetty07/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/Jeevan-Shetty07/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/Jeevan-Shetty07/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Jeevan-Shetty07/DSA/tree/master/0657-robot-return-to-origin) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Jeevan-Shetty07/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Jeevan-Shetty07/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jeevan-Shetty07/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0389-find-the-difference](https://github.com/Jeevan-Shetty07/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/Jeevan-Shetty07/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jeevan-Shetty07/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jeevan-Shetty07/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Jeevan-Shetty07/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jeevan-Shetty07/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/Jeevan-Shetty07/DSA/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Jeevan-Shetty07/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0705-design-hashset](https://github.com/Jeevan-Shetty07/DSA/tree/main/0705-design-hashset/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Jeevan-Shetty07/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2103-rings-and-rods](https://github.com/Jeevan-Shetty07/DSA/tree/main/2103-rings-and-rods/) | Easy |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Jeevan-Shetty07/DSA/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0231-power-of-two](https://github.com/Jeevan-Shetty07/DSA/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/Jeevan-Shetty07/DSA/tree/main/0389-find-the-difference/) | Easy |
 ## Reservoir Sampling
 | Problem Name | Difficulty |
 | ------- | ------- |
