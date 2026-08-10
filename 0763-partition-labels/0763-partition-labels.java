@@ -8,13 +8,16 @@ class Solution {
         }
         int lpos = 0, pos = 0, count = 0,prev=0;
         while (pos < length) {
-             lpos =(int) hm.get(s.charAt(pos));
+            char ch=s.charAt(pos);
+             lpos =(int) hm.get(ch);
             pos++;
             while (pos <= lpos) {
-                if (hm.get(s.charAt(pos)) > lpos) {
-                    lpos = hm.get(s.charAt(pos));
+                if (hm.get(ch) > lpos) {
+                    lpos = hm.get(ch);
                 }
+                 ch=s.charAt(pos);
                 pos++;
+               
             }
             al.add(pos -prev);
             prev=pos;
