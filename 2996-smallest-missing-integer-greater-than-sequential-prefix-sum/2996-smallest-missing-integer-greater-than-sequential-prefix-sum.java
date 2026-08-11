@@ -1,8 +1,10 @@
 class Solution {
     public int missingInteger(int[] nums) {
+        if(nums.length==1){
+            return nums[0]+1;
+        }
         int prev = nums[0];
-        Set<Integer> hs = new HashSet<>();
-        hs.add(prev);
+        boolean[] arr = new boolean[50];
         int sum = prev;
         for (int i = 1; i < nums.length; i++) {
 
@@ -10,19 +12,22 @@ class Solution {
                 break;
             } else {
                 sum += nums[i];
-                prev=nums[i];
+                prev = nums[i];
             }
         }
-        for(int i:nums){
-            hs.add(i);
-        }
-        while(hs.contains(sum)){
-            sum++;
+        if (sum > 50) {
+            return sum;
+        } else {
+            for (int i : nums) {
+                arr[i-1] = true;
+            }
+            while(sum<=50 && arr[sum-1] ){
+                sum++;
+            }
+
         }
 
         return sum;
-
-        
 
     }
 }
