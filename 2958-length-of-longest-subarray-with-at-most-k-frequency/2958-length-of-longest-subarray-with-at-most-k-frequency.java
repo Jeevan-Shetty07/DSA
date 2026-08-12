@@ -10,7 +10,7 @@ class Solution {
                 hm.put(nums[start], hm.get(nums[start]) - 1);
                 start++;
             }
-            max=Math.max(end-start,max);
+             max=Math.max(end-start,max);
 
         }
 
