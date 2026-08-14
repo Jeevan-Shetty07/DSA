@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Jeevan-Shetty07/DSA/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0191-number-of-1-bits](https://github.com/Jeevan-Shetty07/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Jeevan-Shetty07/DSA/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Jeevan-Shetty07/DSA/tree/main/0389-find-the-difference/) | Easy |
 ## Reservoir Sampling
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jeevan-Shetty07/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/Jeevan-Shetty07/DSA/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Jeevan-Shetty07/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jeevan-Shetty07/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
