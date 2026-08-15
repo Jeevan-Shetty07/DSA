@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Jeevan-Shetty07/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Jeevan-Shetty07/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Jeevan-Shetty07/DSA/tree/main/0014-longest-common-prefix/) | Easy |
+| [0045-jump-game-ii](https://github.com/Jeevan-Shetty07/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0054-spiral-matrix](https://github.com/Jeevan-Shetty07/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Jeevan-Shetty07/DSA/tree/main/0055-jump-game/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Jeevan-Shetty07/DSA/tree/master/0059-spiral-matrix-ii) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/Jeevan-Shetty07/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Jeevan-Shetty07/DSA/tree/main/0055-jump-game/) | Medium |
 | [1025-divisor-game](https://github.com/Jeevan-Shetty07/DSA/tree/main/1025-divisor-game/) | Easy |
 ## Brainteaser
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Jeevan-Shetty07/DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0045-jump-game-ii](https://github.com/Jeevan-Shetty07/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Jeevan-Shetty07/DSA/tree/main/0055-jump-game/) | Medium |
 | [0763-partition-labels](https://github.com/Jeevan-Shetty07/DSA/tree/main/0763-partition-labels/) | Medium |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Jeevan-Shetty07/DSA/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
