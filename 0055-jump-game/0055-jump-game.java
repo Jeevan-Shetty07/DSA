@@ -3,8 +3,8 @@ class Solution {
         // if(nums.length<=1){
         //     return true;
         // }
-        int end=nums.length-1,start=end-1;
-       for(int i=start;i>=0;i--){
+        int end=nums.length-1;
+       for(int i=end-1;i>=0;i--){
             if(i+nums[i]>=end){
                 end=i;
             }
