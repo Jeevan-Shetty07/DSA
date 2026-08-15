@@ -8,7 +8,7 @@ class Solution {
             if(i+nums[i]>=end){
                 end=i;
             }
-            System.out.println(end);
+            // System.out.println(end);
        }
      return end==0?true:false;
     }
