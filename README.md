@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Jeevan-Shetty07/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Jeevan-Shetty07/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0054-spiral-matrix](https://github.com/Jeevan-Shetty07/DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Jeevan-Shetty07/DSA/tree/main/0055-jump-game/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Jeevan-Shetty07/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jeevan-Shetty07/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Jeevan-Shetty07/DSA/tree/main/0169-majority-element/) | Easy |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Jeevan-Shetty07/DSA/tree/main/0055-jump-game/) | Medium |
 | [1025-divisor-game](https://github.com/Jeevan-Shetty07/DSA/tree/main/1025-divisor-game/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Jeevan-Shetty07/DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/Jeevan-Shetty07/DSA/tree/main/0055-jump-game/) | Medium |
 | [0763-partition-labels](https://github.com/Jeevan-Shetty07/DSA/tree/main/0763-partition-labels/) | Medium |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Jeevan-Shetty07/DSA/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Jeevan-Shetty07/DSA/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
