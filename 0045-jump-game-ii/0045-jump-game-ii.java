@@ -1,16 +1,20 @@
 class Solution {
     public int jump(int[] nums) {
-        int start=0,end=0,count=0,length=nums.length,pos=0;
-        while(end<length){
-            int nend=end+1;
-            while(start<=end){
-                nend=Math.max(nend,nums[start]+start>=length?length-1:nums[start]+start);
+        int start = 0, end = 0, count = 0;
+        int length = nums.length;
+
+        while (end < length - 1) {
+            int nend = end;
+
+            while (start <= end) {
+                nend = Math.max(nend, start + nums[start]);
                 start++;
-              
             }
+
             count++;
-            end=nend;
+            end = nend;
         }
-        return count-1;
+
+        return count;
     }
 }
