@@ -8,7 +8,7 @@ class Solution {
             }
             tc++;
         }
-        System.out.println(tl+" "+sl);
+        // System.out.println(tl+" "+sl);
         return sc==sl;
     }
 }
