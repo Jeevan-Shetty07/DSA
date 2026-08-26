@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Jeevan-Shetty07/DSA/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0231-power-of-two](https://github.com/Jeevan-Shetty07/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Jeevan-Shetty07/DSA/tree/master/0258-add-digits) |
+| [0342-power-of-four](https://github.com/Jeevan-Shetty07/DSA/tree/main/0342-power-of-four/) | Easy |
 | [0382-linked-list-random-node](https://github.com/Jeevan-Shetty07/DSA/tree/main/0382-linked-list-random-node/) | Medium |
 | [0412-fizz-buzz](https://github.com/Jeevan-Shetty07/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0441-arranging-coins](https://github.com/Jeevan-Shetty07/DSA/tree/main/0441-arranging-coins/) | Easy |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Jeevan-Shetty07/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Jeevan-Shetty07/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/Jeevan-Shetty07/DSA/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Jeevan-Shetty07/DSA/tree/main/0342-power-of-four/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/Jeevan-Shetty07/DSA/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Jeevan-Shetty07/DSA/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0191-number-of-1-bits](https://github.com/Jeevan-Shetty07/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Jeevan-Shetty07/DSA/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Jeevan-Shetty07/DSA/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/Jeevan-Shetty07/DSA/tree/main/0389-find-the-difference/) | Easy |
 ## Reservoir Sampling
 | Problem Name | Difficulty |
