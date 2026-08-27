@@ -29,7 +29,7 @@ class Solution {
                 }
                 slow=slow.next;
             }
-            System.out.println(slow.val);
+            // System.out.println(slow.val);
             return true;     
     }
 }
