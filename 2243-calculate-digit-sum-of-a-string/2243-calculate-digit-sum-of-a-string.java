@@ -16,7 +16,7 @@ class Solution {
                 sb1.append(String.valueOf(sum));
             // }
             sb = sb1;
-                      System.out.println(sb);
+                    //   System.out.println(sb);
 
         }
         return sb.toString();
