@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Jeevan-Shetty07/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Jeevan-Shetty07/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Jeevan-Shetty07/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Jeevan-Shetty07/DSA/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Jeevan-Shetty07/DSA/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Jeevan-Shetty07/DSA/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Jeevan-Shetty07/DSA/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Jeevan-Shetty07/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Jeevan-Shetty07/DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jeevan-Shetty07/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Jeevan-Shetty07/DSA/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Jeevan-Shetty07/DSA/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2974-minimum-number-game](https://github.com/Jeevan-Shetty07/DSA/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jeevan-Shetty07/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Jeevan-Shetty07/DSA/tree/master/0682-baseball-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Jeevan-Shetty07/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Jeevan-Shetty07/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Jeevan-Shetty07/DSA/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Jeevan-Shetty07/DSA/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2974-minimum-number-game](https://github.com/Jeevan-Shetty07/DSA/tree/master/2974-minimum-number-game) |
 | [3612-process-string-with-special-operations-i](https://github.com/Jeevan-Shetty07/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Jeevan-Shetty07/DSA/tree/main/0763-partition-labels/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Jeevan-Shetty07/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2103-rings-and-rods](https://github.com/Jeevan-Shetty07/DSA/tree/main/2103-rings-and-rods/) | Easy |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Jeevan-Shetty07/DSA/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jeevan-Shetty07/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jeevan-Shetty07/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jeevan-Shetty07/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
