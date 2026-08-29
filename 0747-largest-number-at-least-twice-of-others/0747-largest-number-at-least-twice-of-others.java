@@ -10,7 +10,7 @@ class Solution {
                 shigh=nums[i];
             }
         }
-        System.out.println(high+""+shigh);
+        // System.out.println(high+""+shigh);
         return (shigh*2)<=high?ind:-1;
     }
 }
