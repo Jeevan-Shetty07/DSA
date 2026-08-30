@@ -17,7 +17,7 @@ class Solution {
         f = Math.max(maxi, mini) + 1;
         l = len - Math.min(maxi, mini);
         b = (Math.min(maxi, mini) + 1) + (len - Math.max(mini, maxi));
-       return Math.min(Math.min(f,l),Math.min(l,b));
+       return Math.min(Math.min(f,l),b);
 
     }
 }
