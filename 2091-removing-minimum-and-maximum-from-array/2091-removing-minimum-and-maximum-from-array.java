@@ -17,19 +17,7 @@ class Solution {
         f = Math.max(maxi, mini) + 1;
         l = len - Math.min(maxi, mini);
         b = (Math.min(maxi, mini) + 1) + (len - Math.max(mini, maxi));
-        if (f < l) {
-            if (f < b) {
-                return f;
-            }else{
-                 return b;
-            }
-        }else{
-            if(l<b){
-                return l;
-            }else{
-                return b;
-            }
-        }
+       return Math.min(Math.min(f,l),Math.min(l,b));
 
     }
 }
