@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Jeevan-Shetty07/DSA/tree/main/2235-add-two-integers/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Jeevan-Shetty07/DSA/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Jeevan-Shetty07/DSA/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2427-number-of-common-factors](https://github.com/Jeevan-Shetty07/DSA/tree/main/2427-number-of-common-factors/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Jeevan-Shetty07/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Jeevan-Shetty07/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2579-count-total-number-of-colored-cells](https://github.com/Jeevan-Shetty07/DSA/tree/main/2579-count-total-number-of-colored-cells/) | Medium |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Jeevan-Shetty07/DSA/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jeevan-Shetty07/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Jeevan-Shetty07/DSA/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2427-number-of-common-factors](https://github.com/Jeevan-Shetty07/DSA/tree/main/2427-number-of-common-factors/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Jeevan-Shetty07/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jeevan-Shetty07/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Linked List
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/Jeevan-Shetty07/DSA/tree/main/2427-number-of-common-factors/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Jeevan-Shetty07/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -494,4 +497,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Jeevan-Shetty07/DSA/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jeevan-Shetty07/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jeevan-Shetty07/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/Jeevan-Shetty07/DSA/tree/main/2427-number-of-common-factors/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/Jeevan-Shetty07/DSA/tree/main/2427-number-of-common-factors/) | Easy |
 <!---LeetCode Topics End-->
