@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Jeevan-Shetty07/DSA/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Jeevan-Shetty07/DSA/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Jeevan-Shetty07/DSA/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Jeevan-Shetty07/DSA/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Jeevan-Shetty07/DSA/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Jeevan-Shetty07/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Jeevan-Shetty07/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/Jeevan-Shetty07/DSA/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Jeevan-Shetty07/DSA/tree/main/2427-number-of-common-factors/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Jeevan-Shetty07/DSA/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Jeevan-Shetty07/DSA/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Jeevan-Shetty07/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Jeevan-Shetty07/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2579-count-total-number-of-colored-cells](https://github.com/Jeevan-Shetty07/DSA/tree/main/2579-count-total-number-of-colored-cells/) | Medium |
