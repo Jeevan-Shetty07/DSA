@@ -7,7 +7,7 @@ class Solution {
                   ele++;
             }
         }
-        System.out.println(sum+" "+ele);
+        // System.out.println(sum+" "+ele);
        
         return ele==0?0:sum/ele;
     }
