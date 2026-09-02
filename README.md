@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1791-find-center-of-star-graph](https://github.com/Jeevan-Shetty07/DSA/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Jeevan-Shetty07/DSA/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Design
 | Problem Name | Difficulty |
