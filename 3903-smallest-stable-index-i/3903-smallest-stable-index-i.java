@@ -12,7 +12,7 @@ class Solution {
         }
         for(int i=n-2;i>=0;i--){
               minsum[i]=Math.min(nums[i],minsum[i+1]);
-                System.out.println(maxsum[i]);
+                // System.out.println(maxsum[i]);
         }
         
         for(int i=0;i<nums.length;i++){
