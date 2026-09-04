@@ -7,7 +7,7 @@ class Solution {
         minsum[n-1] = nums[n-1];
         for (int i = 1; i < n; i++) {
               maxsum[i]=Math.max(maxsum[i-1],nums[i]);
-              System.out.print(maxsum[i]);
+            //   System.out.print(maxsum[i]);
             
         }
         for(int i=n-2;i>=0;i--){
