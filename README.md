@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jeevan-Shetty07/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Jeevan-Shetty07/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Jeevan-Shetty07/DSA/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/Jeevan-Shetty07/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Jeevan-Shetty07/DSA/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Jeevan-Shetty07/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Jeevan-Shetty07/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Jeevan-Shetty07/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/Jeevan-Shetty07/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
