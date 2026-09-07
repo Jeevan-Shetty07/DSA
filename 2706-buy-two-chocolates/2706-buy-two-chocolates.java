@@ -9,7 +9,7 @@ class Solution {
                 smin=price;
             }
         }
-        System.out.println(min+" "+smin);
+        // System.out.println(min+" "+smin);
         return min+smin<=money?money-(min+smin):money;
         
     }
