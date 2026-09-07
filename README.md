@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Jeevan-Shetty07/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Jeevan-Shetty07/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Jeevan-Shetty07/DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0999-available-captures-for-rook](https://github.com/Jeevan-Shetty07/DSA/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Jeevan-Shetty07/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Jeevan-Shetty07/DSA/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jeevan-Shetty07/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Jeevan-Shetty07/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Jeevan-Shetty07/DSA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Jeevan-Shetty07/DSA/tree/master/0682-baseball-game) |
+| [0999-available-captures-for-rook](https://github.com/Jeevan-Shetty07/DSA/tree/main/0999-available-captures-for-rook/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Jeevan-Shetty07/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Jeevan-Shetty07/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Jeevan-Shetty07/DSA/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Jeevan-Shetty07/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Jeevan-Shetty07/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jeevan-Shetty07/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0999-available-captures-for-rook](https://github.com/Jeevan-Shetty07/DSA/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Jeevan-Shetty07/DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Jeevan-Shetty07/DSA/tree/master/1672-richest-customer-wealth) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Jeevan-Shetty07/DSA/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
