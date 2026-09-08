@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Jeevan-Shetty07/DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Jeevan-Shetty07/DSA/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Jeevan-Shetty07/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Jeevan-Shetty07/DSA/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jeevan-Shetty07/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jeevan-Shetty07/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Jeevan-Shetty07/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Jeevan-Shetty07/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Jeevan-Shetty07/DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jeevan-Shetty07/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Jeevan-Shetty07/DSA/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Jeevan-Shetty07/DSA/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Jeevan-Shetty07/DSA/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/Jeevan-Shetty07/DSA/tree/main/2706-buy-two-chocolates/) | Easy |
@@ -531,4 +533,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2427-number-of-common-factors](https://github.com/Jeevan-Shetty07/DSA/tree/main/2427-number-of-common-factors/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Jeevan-Shetty07/DSA/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 <!---LeetCode Topics End-->
