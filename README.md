@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/Jeevan-Shetty07/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Jeevan-Shetty07/DSA/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/Jeevan-Shetty07/DSA/tree/main/3925-concatenate-array-with-reverse/) | Easy |
+| [3978-unique-middle-element](https://github.com/Jeevan-Shetty07/DSA/tree/main/3978-unique-middle-element/) | Easy |
 | [4020-elevator-requests-i](https://github.com/Jeevan-Shetty07/DSA/tree/main/4020-elevator-requests-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Jeevan-Shetty07/DSA/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Jeevan-Shetty07/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jeevan-Shetty07/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3978-unique-middle-element](https://github.com/Jeevan-Shetty07/DSA/tree/main/3978-unique-middle-element/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
