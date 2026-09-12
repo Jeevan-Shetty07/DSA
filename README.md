@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Jeevan-Shetty07/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0441-arranging-coins](https://github.com/Jeevan-Shetty07/DSA/tree/main/0441-arranging-coins/) | Easy |
 | [0507-perfect-number](https://github.com/Jeevan-Shetty07/DSA/tree/main/0507-perfect-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/Jeevan-Shetty07/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jeevan-Shetty07/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/Jeevan-Shetty07/DSA/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1025-divisor-game](https://github.com/Jeevan-Shetty07/DSA/tree/main/1025-divisor-game/) | Easy |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Jeevan-Shetty07/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Jeevan-Shetty07/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0342-power-of-four](https://github.com/Jeevan-Shetty07/DSA/tree/main/0342-power-of-four/) | Easy |
+| [0509-fibonacci-number](https://github.com/Jeevan-Shetty07/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/Jeevan-Shetty07/DSA/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Jeevan-Shetty07/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Jeevan-Shetty07/DSA/tree/main/0055-jump-game/) | Medium |
 | [0392-is-subsequence](https://github.com/Jeevan-Shetty07/DSA/tree/main/0392-is-subsequence/) | Easy |
+| [0509-fibonacci-number](https://github.com/Jeevan-Shetty07/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/Jeevan-Shetty07/DSA/tree/main/1025-divisor-game/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -542,4 +545,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Jeevan-Shetty07/DSA/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Jeevan-Shetty07/DSA/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
