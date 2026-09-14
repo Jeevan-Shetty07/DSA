@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Jeevan-Shetty07/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/Jeevan-Shetty07/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/Jeevan-Shetty07/DSA/tree/master/0434-number-of-segments-in-a-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Jeevan-Shetty07/DSA/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Jeevan-Shetty07/DSA/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Jeevan-Shetty07/DSA/tree/master/0709-to-lower-case) |
 | [0763-partition-labels](https://github.com/Jeevan-Shetty07/DSA/tree/main/0763-partition-labels/) | Medium |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Jeevan-Shetty07/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Jeevan-Shetty07/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Jeevan-Shetty07/DSA/tree/main/0496-next-greater-element-i/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Jeevan-Shetty07/DSA/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0605-can-place-flowers](https://github.com/Jeevan-Shetty07/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jeevan-Shetty07/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Jeevan-Shetty07/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Jeevan-Shetty07/DSA/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Jeevan-Shetty07/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Jeevan-Shetty07/DSA/tree/main/0496-next-greater-element-i/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Jeevan-Shetty07/DSA/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0705-design-hashset](https://github.com/Jeevan-Shetty07/DSA/tree/main/0705-design-hashset/) | Easy |
 | [0763-partition-labels](https://github.com/Jeevan-Shetty07/DSA/tree/main/0763-partition-labels/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Jeevan-Shetty07/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
