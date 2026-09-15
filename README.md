@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Jeevan-Shetty07/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Jeevan-Shetty07/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Jeevan-Shetty07/DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0941-valid-mountain-array](https://github.com/Jeevan-Shetty07/DSA/tree/main/0941-valid-mountain-array/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/Jeevan-Shetty07/DSA/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Jeevan-Shetty07/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Jeevan-Shetty07/DSA/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
