@@ -1,24 +1,18 @@
 class ParkingSystem {
-    int big=0,medium=0,small=0;
+    int[] arr = new int[3];
 
     public ParkingSystem(int big, int medium, int small) {
-        this.big=big;
-        this.medium=medium;
-        this.small=small;
+        arr[0] = big;
+        arr[1] = medium;
+        arr[2] = small;
     }
-    
+
     public boolean addCar(int carType) {
-        if(carType==1 && big>0){
-            big--;
-            return true;
-        }else  if(carType==2 && medium>0){
-            medium--;
-            return true;
-        }else  if(carType==3 && small>0){
-            small--;
-            return true;
-        }
-        return false;
+      if(arr[carType-1]>0){
+        arr[carType-1]--;
+        return true;
+      }
+      return false;
     }
 }
 
