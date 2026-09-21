@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Jeevan-Shetty07/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Jeevan-Shetty07/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Jeevan-Shetty07/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3659-partition-array-into-k-distinct-groups](https://github.com/Jeevan-Shetty07/DSA/tree/main/3659-partition-array-into-k-distinct-groups/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Jeevan-Shetty07/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Jeevan-Shetty07/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Jeevan-Shetty07/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jeevan-Shetty07/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jeevan-Shetty07/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Jeevan-Shetty07/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3659-partition-array-into-k-distinct-groups](https://github.com/Jeevan-Shetty07/DSA/tree/main/3659-partition-array-into-k-distinct-groups/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Jeevan-Shetty07/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Jeevan-Shetty07/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Jeevan-Shetty07/DSA/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Jeevan-Shetty07/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jeevan-Shetty07/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3659-partition-array-into-k-distinct-groups](https://github.com/Jeevan-Shetty07/DSA/tree/main/3659-partition-array-into-k-distinct-groups/) | Medium |
 | [3978-unique-middle-element](https://github.com/Jeevan-Shetty07/DSA/tree/main/3978-unique-middle-element/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
