@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/Jeevan-Shetty07/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Jeevan-Shetty07/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/Jeevan-Shetty07/DSA/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
+| [3931-check-adjacent-digit-differences](https://github.com/Jeevan-Shetty07/DSA/tree/main/3931-check-adjacent-digit-differences/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
