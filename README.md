@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Jeevan-Shetty07/DSA/tree/main/0917-reverse-only-letters/) | Easy |
 | [1629-slowest-key](https://github.com/Jeevan-Shetty07/DSA/tree/main/1629-slowest-key/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Jeevan-Shetty07/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1880-check-if-word-equals-summation-of-two-words](https://github.com/Jeevan-Shetty07/DSA/tree/main/1880-check-if-word-equals-summation-of-two-words/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jeevan-Shetty07/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Jeevan-Shetty07/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2103-rings-and-rods](https://github.com/Jeevan-Shetty07/DSA/tree/main/2103-rings-and-rods/) | Easy |
