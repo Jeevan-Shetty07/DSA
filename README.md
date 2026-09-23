@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-rings-and-rods](https://github.com/Jeevan-Shetty07/DSA/tree/main/2103-rings-and-rods/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Jeevan-Shetty07/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Jeevan-Shetty07/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Jeevan-Shetty07/DSA/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Jeevan-Shetty07/DSA/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Jeevan-Shetty07/DSA/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Jeevan-Shetty07/DSA/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Jeevan-Shetty07/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Jeevan-Shetty07/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Jeevan-Shetty07/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Jeevan-Shetty07/DSA/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Jeevan-Shetty07/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Jeevan-Shetty07/DSA/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2239-find-closest-number-to-zero](https://github.com/Jeevan-Shetty07/DSA/tree/main/2239-find-closest-number-to-zero/) | Easy |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Jeevan-Shetty07/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Jeevan-Shetty07/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2103-rings-and-rods](https://github.com/Jeevan-Shetty07/DSA/tree/main/2103-rings-and-rods/) | Easy |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Jeevan-Shetty07/DSA/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Jeevan-Shetty07/DSA/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Jeevan-Shetty07/DSA/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jeevan-Shetty07/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1791-find-center-of-star-graph](https://github.com/Jeevan-Shetty07/DSA/tree/main/1791-find-center-of-star-graph/) | Easy |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Jeevan-Shetty07/DSA/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Jeevan-Shetty07/DSA/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -567,4 +571,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Jeevan-Shetty07/DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Jeevan-Shetty07/DSA/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Jeevan-Shetty07/DSA/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 <!---LeetCode Topics End-->
