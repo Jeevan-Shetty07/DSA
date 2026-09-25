@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/Jeevan-Shetty07/DSA/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Jeevan-Shetty07/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Jeevan-Shetty07/DSA/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
+| [1089-duplicate-zeros](https://github.com/Jeevan-Shetty07/DSA/tree/main/1089-duplicate-zeros/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Jeevan-Shetty07/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jeevan-Shetty07/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Jeevan-Shetty07/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Jeevan-Shetty07/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0763-partition-labels](https://github.com/Jeevan-Shetty07/DSA/tree/main/0763-partition-labels/) | Medium |
 | [0917-reverse-only-letters](https://github.com/Jeevan-Shetty07/DSA/tree/main/0917-reverse-only-letters/) | Easy |
+| [1089-duplicate-zeros](https://github.com/Jeevan-Shetty07/DSA/tree/main/1089-duplicate-zeros/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Jeevan-Shetty07/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Jeevan-Shetty07/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Jeevan-Shetty07/DSA/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
