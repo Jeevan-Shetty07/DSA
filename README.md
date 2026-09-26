@@ -595,4 +595,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Jeevan-Shetty07/DSA/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Jeevan-Shetty07/DSA/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 <!---LeetCode Topics End-->
