@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Jeevan-Shetty07/DSA/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Jeevan-Shetty07/DSA/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Jeevan-Shetty07/DSA/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Jeevan-Shetty07/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Jeevan-Shetty07/DSA/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Jeevan-Shetty07/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jeevan-Shetty07/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Jeevan-Shetty07/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Jeevan-Shetty07/DSA/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Jeevan-Shetty07/DSA/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Jeevan-Shetty07/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Jeevan-Shetty07/DSA/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2974-minimum-number-game](https://github.com/Jeevan-Shetty07/DSA/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Jeevan-Shetty07/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Jeevan-Shetty07/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/Jeevan-Shetty07/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Jeevan-Shetty07/DSA/tree/main/0739-daily-temperatures/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/Jeevan-Shetty07/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Jeevan-Shetty07/DSA/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Jeevan-Shetty07/DSA/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Number Theory
