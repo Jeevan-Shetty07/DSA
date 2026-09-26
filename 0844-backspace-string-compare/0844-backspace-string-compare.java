@@ -19,7 +19,7 @@ class Solution {
                 sb1.append(ch);
             }
         }
-        // System.out.println(sb1+" "+sb);
+        System.out.println(sb1+" "+sb);
         return sb.toString().equals(sb1.toString());
     }
 }
