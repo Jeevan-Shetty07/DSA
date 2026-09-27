@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Jeevan-Shetty07/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Jeevan-Shetty07/DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0941-valid-mountain-array](https://github.com/Jeevan-Shetty07/DSA/tree/main/0941-valid-mountain-array/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Jeevan-Shetty07/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/Jeevan-Shetty07/DSA/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Jeevan-Shetty07/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Jeevan-Shetty07/DSA/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Jeevan-Shetty07/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jeevan-Shetty07/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Jeevan-Shetty07/DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Jeevan-Shetty07/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jeevan-Shetty07/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Jeevan-Shetty07/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Jeevan-Shetty07/DSA/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Jeevan-Shetty07/DSA/tree/main/0763-partition-labels/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Jeevan-Shetty07/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Jeevan-Shetty07/DSA/tree/main/0917-reverse-only-letters/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Jeevan-Shetty07/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Jeevan-Shetty07/DSA/tree/main/1089-duplicate-zeros/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Jeevan-Shetty07/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Jeevan-Shetty07/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
