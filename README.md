@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Jeevan-Shetty07/DSA/tree/main/0763-partition-labels/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Jeevan-Shetty07/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Jeevan-Shetty07/DSA/tree/main/0917-reverse-only-letters/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jeevan-Shetty07/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1629-slowest-key](https://github.com/Jeevan-Shetty07/DSA/tree/main/1629-slowest-key/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jeevan-Shetty07/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Jeevan-Shetty07/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Jeevan-Shetty07/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Jeevan-Shetty07/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Jeevan-Shetty07/DSA/tree/main/0844-backspace-string-compare/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jeevan-Shetty07/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Jeevan-Shetty07/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Jeevan-Shetty07/DSA/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Jeevan-Shetty07/DSA/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
@@ -602,4 +604,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Jeevan-Shetty07/DSA/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jeevan-Shetty07/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
