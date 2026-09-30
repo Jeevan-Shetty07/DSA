@@ -14,7 +14,7 @@ class Solution {
             if(hs.contains(sum)){
                 return false;
             }
-            System.out.println(sum);
+            // System.out.println(sum);
             hs.add(sum);
             num=sum;
         }
