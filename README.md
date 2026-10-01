@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jeevan-Shetty07/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Jeevan-Shetty07/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Jeevan-Shetty07/DSA/tree/main/0496-next-greater-element-i/) | Easy |
+| [0575-distribute-candies](https://github.com/Jeevan-Shetty07/DSA/tree/main/0575-distribute-candies/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Jeevan-Shetty07/DSA/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0605-can-place-flowers](https://github.com/Jeevan-Shetty07/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jeevan-Shetty07/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Jeevan-Shetty07/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jeevan-Shetty07/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Jeevan-Shetty07/DSA/tree/main/0496-next-greater-element-i/) | Easy |
+| [0575-distribute-candies](https://github.com/Jeevan-Shetty07/DSA/tree/main/0575-distribute-candies/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Jeevan-Shetty07/DSA/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0705-design-hashset](https://github.com/Jeevan-Shetty07/DSA/tree/main/0705-design-hashset/) | Easy |
 | [0763-partition-labels](https://github.com/Jeevan-Shetty07/DSA/tree/main/0763-partition-labels/) | Medium |
