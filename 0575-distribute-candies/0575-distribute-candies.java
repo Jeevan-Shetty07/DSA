@@ -4,6 +4,8 @@ class Solution {
         for(int candy:candyType){
             hs.add(candy);
         }
-        return hs.size()>candyType.length/2?candyType.length/2:hs.size();
+        int len=candyType.length/2;
+        int size=hs.size();
+        return size>len?len:size;
     }
 }
