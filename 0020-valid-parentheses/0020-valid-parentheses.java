@@ -5,8 +5,9 @@ class Solution {
         int top=-1;
         boolean flag=false;
         for(int i=0;i<s.length();i++){
-             if(s.charAt(i)=='(' || s.charAt(i)=='[' || s.charAt(i)=='{' ){
-                stack[++top]=s.charAt(i);
+            char ch=s.charAt(i);
+             if(ch=='(' || ch=='[' || ch=='{' ){
+                stack[++top]=ch;
                 flag=false;
              }
              else{
@@ -14,15 +15,15 @@ class Solution {
                          flag=false;
                          return flag;
                 }
-                else if(s.charAt(i)==')' && stack[top]=='('){
+                else if(ch==')' && stack[top]=='('){
                     top--;
                     flag=true;
                     continue;
-                }else  if(s.charAt(i)==']' && stack[top]=='['){
+                }else  if(ch==']' && stack[top]=='['){
                    top--;
                    flag=true;
                      continue;
-                }else  if(s.charAt(i)=='}' && stack[top]=='{'){
+                }else  if(ch=='}' && stack[top]=='{'){
                    top--;
                    flag=true;
                      continue;
