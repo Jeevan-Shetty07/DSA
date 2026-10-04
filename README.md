@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Jeevan-Shetty07/DSA/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2974-minimum-number-game](https://github.com/Jeevan-Shetty07/DSA/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/Jeevan-Shetty07/DSA/tree/main/3174-clear-digits/) | Easy |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Jeevan-Shetty07/DSA/tree/main/3178-find-the-child-who-has-the-ball-after-k-seconds/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Jeevan-Shetty07/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Jeevan-Shetty07/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Jeevan-Shetty07/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Jeevan-Shetty07/DSA/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Jeevan-Shetty07/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jeevan-Shetty07/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Jeevan-Shetty07/DSA/tree/main/3178-find-the-child-who-has-the-ball-after-k-seconds/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Jeevan-Shetty07/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Jeevan-Shetty07/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Jeevan-Shetty07/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
