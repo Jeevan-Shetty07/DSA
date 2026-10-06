@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Jeevan-Shetty07/DSA/tree/main/0763-partition-labels/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Jeevan-Shetty07/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Jeevan-Shetty07/DSA/tree/main/0917-reverse-only-letters/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jeevan-Shetty07/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1446-consecutive-characters](https://github.com/Jeevan-Shetty07/DSA/tree/main/1446-consecutive-characters/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jeevan-Shetty07/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1629-slowest-key](https://github.com/Jeevan-Shetty07/DSA/tree/main/1629-slowest-key/) | Easy |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Jeevan-Shetty07/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Jeevan-Shetty07/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Jeevan-Shetty07/DSA/tree/main/0844-backspace-string-compare/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jeevan-Shetty07/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jeevan-Shetty07/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Jeevan-Shetty07/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Jeevan-Shetty07/DSA/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Jeevan-Shetty07/DSA/tree/main/0055-jump-game/) | Medium |
 | [0605-can-place-flowers](https://github.com/Jeevan-Shetty07/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0763-partition-labels](https://github.com/Jeevan-Shetty07/DSA/tree/main/0763-partition-labels/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jeevan-Shetty07/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Jeevan-Shetty07/DSA/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Jeevan-Shetty07/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Jeevan-Shetty07/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -630,5 +633,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Jeevan-Shetty07/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jeevan-Shetty07/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jeevan-Shetty07/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
