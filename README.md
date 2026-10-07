@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Jeevan-Shetty07/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Jeevan-Shetty07/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Jeevan-Shetty07/DSA/tree/main/0014-longest-common-prefix/) | Easy |
+| [0039-combination-sum](https://github.com/Jeevan-Shetty07/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0045-jump-game-ii](https://github.com/Jeevan-Shetty07/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0054-spiral-matrix](https://github.com/Jeevan-Shetty07/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Jeevan-Shetty07/DSA/tree/main/0055-jump-game/) | Medium |
@@ -640,5 +641,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/Jeevan-Shetty07/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/Jeevan-Shetty07/DSA/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
