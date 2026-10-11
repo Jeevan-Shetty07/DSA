@@ -8,6 +8,9 @@ class Solution {
           if(num>n){
             return;
         }
+        if(n-num+1<k-temp.size()){
+            return;
+        }
         
         temp.add(num);
         comb(num+1,temp,ls,k,n);
