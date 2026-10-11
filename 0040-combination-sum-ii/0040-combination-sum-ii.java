@@ -12,6 +12,9 @@ class Solution {
             if(i>indx && candidates[i]==candidates[i-1]){
                 continue;
             }
+            if(sum+candidates[i]>target){
+                break;
+            }
             temp.add(candidates[i]);
             sum+=candidates[i];
             csum(i+1,sum,candidates,temp,al,target);
