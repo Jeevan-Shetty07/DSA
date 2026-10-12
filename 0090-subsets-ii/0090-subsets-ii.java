@@ -1,8 +1,7 @@
 class Solution {
-    List<List<Integer>> al = new ArrayList<>();
    
 
-    public void subset(int indx, List<Integer> nal, int[] nums) {
+    public void subset(int indx, List<Integer> nal, int[] nums,List<List<Integer>> al) {
      
             al.add(new ArrayList<>(nal));
             
@@ -12,7 +11,7 @@ class Solution {
                 continue;
             }
             nal.add(nums[i]);
-            subset(i+1, nal, nums);
+            subset(i+1, nal, nums,al);
             nal.remove(nal.size() - 1);
            
 
@@ -20,8 +19,10 @@ class Solution {
     }
 
     public List<List<Integer>> subsetsWithDup(int[] nums) {
+        
+    List<List<Integer>> al = new ArrayList<>();
         Arrays.sort(nums);
-        subset(0, new ArrayList<>(), nums);
+        subset(0, new ArrayList<>(), nums,al);
         return al;
 
     }
