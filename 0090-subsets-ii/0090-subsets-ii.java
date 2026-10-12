@@ -1,20 +1,22 @@
 class Solution {
     List<List<Integer>> al = new ArrayList<>();
-    Set<List<Integer>> set = new HashSet<>();
+   
 
     public void subset(int indx, List<Integer> nal, int[] nums) {
-        if (indx >= nums.length) {
+     
+            al.add(new ArrayList<>(nal));
             
-            if (!set.contains(new ArrayList<>(nal))) {
-                al.add(new ArrayList<>(nal));
+        
+        for (int i = indx; i < nums.length; i++) {
+            if (i > indx && nums[i] == nums[i - 1]) {
+                continue;
             }
-            set.add(new ArrayList<>(nal));
-            return;
+            nal.add(nums[i]);
+            subset(i+1, nal, nums);
+            nal.remove(nal.size() - 1);
+           
+
         }
-        nal.add(nums[indx]);
-        subset(indx + 1, nal, nums);
-        nal.remove(nal.size() - 1);
-        subset(indx + 1, nal, nums);
     }
 
     public List<List<Integer>> subsetsWithDup(int[] nums) {
