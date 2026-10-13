@@ -647,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Jeevan-Shetty07/DSA/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0577-employee-bonus](https://github.com/Jeevan-Shetty07/DSA/tree/main/0577-employee-bonus/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
