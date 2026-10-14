@@ -652,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/Jeevan-Shetty07/DSA/tree/main/0177-nth-highest-salary/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Jeevan-Shetty07/DSA/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/Jeevan-Shetty07/DSA/tree/main/0182-duplicate-emails/) | Easy |
+| [0196-delete-duplicate-emails](https://github.com/Jeevan-Shetty07/DSA/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0577-employee-bonus](https://github.com/Jeevan-Shetty07/DSA/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/Jeevan-Shetty07/DSA/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/Jeevan-Shetty07/DSA/tree/main/0595-big-countries/) | Easy |
