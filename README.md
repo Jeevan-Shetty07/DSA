@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Jeevan-Shetty07/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Jeevan-Shetty07/DSA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Jeevan-Shetty07/DSA/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/Jeevan-Shetty07/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Jeevan-Shetty07/DSA/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/Jeevan-Shetty07/DSA/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/Jeevan-Shetty07/DSA/tree/main/0202-happy-number/) | Easy |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Jeevan-Shetty07/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Jeevan-Shetty07/DSA/tree/main/0055-jump-game/) | Medium |
+| [0070-climbing-stairs](https://github.com/Jeevan-Shetty07/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0392-is-subsequence](https://github.com/Jeevan-Shetty07/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/Jeevan-Shetty07/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/Jeevan-Shetty07/DSA/tree/main/1025-divisor-game/) | Easy |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Jeevan-Shetty07/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Jeevan-Shetty07/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
