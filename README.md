@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/Jeevan-Shetty07/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Jeevan-Shetty07/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Jeevan-Shetty07/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Jeevan-Shetty07/DSA/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Jeevan-Shetty07/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/Jeevan-Shetty07/DSA/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3931-check-adjacent-digit-differences](https://github.com/Jeevan-Shetty07/DSA/tree/main/3931-check-adjacent-digit-differences/) | Easy |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Jeevan-Shetty07/DSA/tree/main/3178-find-the-child-who-has-the-ball-after-k-seconds/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Jeevan-Shetty07/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Jeevan-Shetty07/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Jeevan-Shetty07/DSA/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Jeevan-Shetty07/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jeevan-Shetty07/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/Jeevan-Shetty07/DSA/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Jeevan-Shetty07/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Jeevan-Shetty07/DSA/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2540-minimum-common-value](https://github.com/Jeevan-Shetty07/DSA/tree/main/2540-minimum-common-value/) | Easy |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Jeevan-Shetty07/DSA/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jeevan-Shetty07/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3884-first-matching-character-from-both-ends](https://github.com/Jeevan-Shetty07/DSA/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Matrix
