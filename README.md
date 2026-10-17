@@ -666,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Jeevan-Shetty07/DSA/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/Jeevan-Shetty07/DSA/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Jeevan-Shetty07/DSA/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Jeevan-Shetty07/DSA/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
