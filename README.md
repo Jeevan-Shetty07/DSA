@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Jeevan-Shetty07/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Jeevan-Shetty07/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Jeevan-Shetty07/DSA/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/Jeevan-Shetty07/DSA/tree/main/0299-bulls-and-cows/) | Medium |
 | [0383-ransom-note](https://github.com/Jeevan-Shetty07/DSA/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Jeevan-Shetty07/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/Jeevan-Shetty07/DSA/tree/main/0392-is-subsequence/) | Easy |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Jeevan-Shetty07/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Jeevan-Shetty07/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Jeevan-Shetty07/DSA/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/Jeevan-Shetty07/DSA/tree/main/0299-bulls-and-cows/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Jeevan-Shetty07/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jeevan-Shetty07/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/Jeevan-Shetty07/DSA/tree/master/0383-ransom-note) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Jeevan-Shetty07/DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Jeevan-Shetty07/DSA/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/Jeevan-Shetty07/DSA/tree/main/0299-bulls-and-cows/) | Medium |
 | [0383-ransom-note](https://github.com/Jeevan-Shetty07/DSA/tree/master/0383-ransom-note) |
 | [1603-design-parking-system](https://github.com/Jeevan-Shetty07/DSA/tree/main/1603-design-parking-system/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Jeevan-Shetty07/DSA/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
