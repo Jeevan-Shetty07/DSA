@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jeevan-Shetty07/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jeevan-Shetty07/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Jeevan-Shetty07/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Jeevan-Shetty07/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Jeevan-Shetty07/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Jeevan-Shetty07/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Jeevan-Shetty07/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jeevan-Shetty07/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Jeevan-Shetty07/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Jeevan-Shetty07/DSA/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Jeevan-Shetty07/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Jeevan-Shetty07/DSA/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Jeevan-Shetty07/DSA/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/Jeevan-Shetty07/DSA/tree/main/2706-buy-two-chocolates/) | Easy |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Jeevan-Shetty07/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Jeevan-Shetty07/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Jeevan-Shetty07/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Jeevan-Shetty07/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Jeevan-Shetty07/DSA/tree/main/2540-minimum-common-value/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
